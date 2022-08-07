@@ -1,9 +1,9 @@
 @font-face {
-    font-family: derk;
+    font-family: Impact;
     src: url(derk.otf);
   }
     html {
-    font-family: mono;
+    font-family: Impact;
   }
   *, *::after, *::before {
     box-sizing: inherit;
@@ -11,7 +11,7 @@
     padding: 0;
   }
   html {
-    font-family: monospace;
+    font-family: Impact;
   }
   *, *::after, *::before {
     box-sizing: inherit;
@@ -62,7 +62,7 @@
     z-index: -1;
   }
   body {
-    font-family:monospace!important;
+    font-family:Impact!important;
     background-color:#000!important;
     color:rgb(0, 238, 255)!important
   }
